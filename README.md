@@ -3,7 +3,9 @@
 Xiaolin Wu's Line Drawing Algorithm is a recognized Line Drawing Algorithm in Computer Graphics which is used to produce Anti-aliased lines.  
 I have implemented it by making use of the Python Image Library (PIL) and Pygame.  
 
-# Preview Screenshots
+# Preview Screenshots  
+
+![temp3](https://user-images.githubusercontent.com/79057173/121735520-deefb280-cb13-11eb-8c4a-2c40a2f7c218.PNG)
 
 ![temp1](https://user-images.githubusercontent.com/79057173/121734925-0e51ef80-cb13-11eb-934d-7e5df3b8b292.PNG)  
 
